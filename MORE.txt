@@ -1,0 +1,2 @@
+The dataset used is the file "heart.csv," and the programming language used is R. First, you need to import the "MASS" package to perform discriminant factor analysis and 
+the "plotrix" package for creating pie charts. The obtained results will be detailed in the "rapport" (report) file.
